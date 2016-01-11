@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//proxy_check/filter.py=utf-8
+encoding//proxy_check/items.py=utf-8
+encoding//proxy_check/middlewares.py=utf-8
+encoding//proxy_check/pipelines.py=utf-8
+encoding//proxy_check/run.py=utf-8
+encoding//proxy_check/settings.py=utf-8
+encoding//proxy_check/spiders/ip_spider.py=utf-8
+encoding//proxy_check/spiders/rules.py=utf-8
+encoding//proxy_check/utils.py=utf-8
